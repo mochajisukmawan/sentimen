@@ -309,7 +309,7 @@
 											<div class="ripple-container"></div></a>
 												<ul class="dropdown-menu dropdown-menu-right" style="background-color: #5a8fd6;">
 														<li><a href="tampil_data_new.php">Tampil Data</a></li>
-														<li><a href="input_data.php">Input Data</a></li>
+														<li><a href="input_data_new.php">Input Data</a></li>
 														<li><a href="reset_data_new.php">Reset Data</a></li>
 												</ul>
 										</li>
