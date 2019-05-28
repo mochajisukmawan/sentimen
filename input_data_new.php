@@ -158,7 +158,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>Appy App Landing Template.</title>
+    <title>Sentimen</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="assets2/images/apple-touch-icon.png">
     <link rel="shortcut icon" type="image/ico" href="assets2/images/favicon.ico" />
